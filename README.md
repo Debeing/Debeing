@@ -25,4 +25,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Debeing&show_icons=true&locale=en" alt="Debeing" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Debeing&" alt="Debeing" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Debeing&show_icons=true&locale=en&layout=compact" alt="Debeing" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Debeing" alt="Debeing" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Debeing" alt="Debeing" /></a></p> 
