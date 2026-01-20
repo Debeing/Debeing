@@ -2,7 +2,7 @@
 # Hi 👋, Welcome to my GitHub profile!
 
 <h1>I'm MBAITEL-AM MBAINAISSEM ERIC</h1>
-<p>👋 Hi, I'm Eric, a junior front-end developer passionate about creating modern and intuitive web experiences.<br/>
+<p>👋 Hi, I'm Eric, a junior fullstack developer passionate about creating modern and intuitive web experiences.<br/>
 💡 My goal: to progress to the role of Senior Fullstack Developer and acquire solid DevOps skills to master the entire application lifecycle.<br/>
 🚀 I enjoy learning by building, collaborating on real-world projects, and sharing my discoveries with the community.  
 </p>
